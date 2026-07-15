@@ -1,2 +1,1 @@
-# Markdown-to-html-converter
-A 4-week internship project for CODTECH: A Python-based markdown to html converter.
+Intern ID : CITS4982 FULL NAME : Niraj Kumar NO. OF WEEKS : 4 WEEKS PROJECT NAME : Unit-Converter-Python PROJECT SCOPE : A simple and user-friendly Python application that allows users to convert markdown to html . This project was developed as part of the CODTECH IT Solutions 4-Week Internship Program.
